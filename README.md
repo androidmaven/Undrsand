@@ -16,7 +16,7 @@ Through the power of Vision Machine learning, you can use your camera to extract
 #DEV FRAMEWORK USED - MVP
 
 
-# The 3-tier features of Undrstand will have
+# The 3-tier features Undrstand will have
 1. Understand aims to simplify reading process, by explaning up a block of text/sentences, extracting the keywords and automatically giving their dictionary meaning, while also providing extra links provided by google. All through your camera
 
 2. It also provides easy text to speech, and translation of sentence.
