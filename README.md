@@ -2,6 +2,7 @@
 A learning assistant powered by artificial intelligence. Supporting  both text and  audio sources (Still under-development).
 Download preview at : https://drive.google.com/file/d/1LcRFZtWjGXUs9J-bXutRK-jKr5ruv76a/view?usp=sharing
 
+https://drive.google.com/open?id=10VehhEl19FMnsSD8hulc58mrdO1BPM6w
 
 # CURRENTLY, UNDRSTAND CAN DO THE FOLLOWING:
 Through the power of Vision Machine learning, you can use your camera to extract any text and find its meaning. Place your camera on the word/sentence/block, undrstand automatically captures and extract the text. Afterwards through the Natural Langage Machine learning, undrstand can extract key words from a block of text, and then provide accurate dictionary meaning and thesarus. This text can also be made to speak out through the power of Google Text to Speech.
